@@ -2,7 +2,7 @@ Package that allows you to display linear progress widget based on percentage. C
 
 ## Features
 
-![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-10-22 at 13 01 03](https://user-images.githubusercontent.com/56429814/197330918-d586b3e9-5583-4220-89a5-fc01d48ecfee.png)
+<img src="https://user-images.githubusercontent.com/56429814/197330918-d586b3e9-5583-4220-89a5-fc01d48ecfee.png" width="250" height="600">
 
 ## Installing
 
