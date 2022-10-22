@@ -2,7 +2,8 @@ Package that allows you to display linear progress widget based on percentage. C
 
 ## Features
 
-<img src="https://user-images.githubusercontent.com/56429814/197330918-d586b3e9-5583-4220-89a5-fc01d48ecfee.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/56429814/197330918-d586b3e9-5583-4220-89a5-fc01d48ecfee.png" width="300" height="600"> ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56429814/197331281-75346755-9791-4684-8ec2-479ea54a9f49.gif)
+
 
 ## Installing
 
