@@ -1,7 +1,7 @@
 name: vertical_percent_indicator
 description: Package that allows you to display linear progress widget based on percentage. Customize the animation duration and color on will. Simple and easy to use.
 version: 0.0.1
-homepage:
+homepage: https://github.com/dtilhoo/vertical_percent_indicator
 
 environment:
   sdk: ">=2.18.1 <3.0.0"
